@@ -6,16 +6,16 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Amit Tambe"]
   spec.email         = ["amittambe0000@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific methods for applications i use}
+  spec.description   = %q{Various view specific methods for applications i use}
+  spec.homepage      = "https://github.com/amittambe000/ViewTool_NonsenseTester"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "Yes"
 
-  spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["homepage_uri"] = "http://nonsensetester.blogspot.com/p/about-me.html"
+  spec.metadata["source_code_uri"] = "https://github.com/amittambe000/ViewTool_NonsenseTester"
+  spec.metadata["changelog_uri"] = "https://github.com/amittambe000/ViewTool_NonsenseTester"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
