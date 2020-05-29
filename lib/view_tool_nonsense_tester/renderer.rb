@@ -5,3 +5,4 @@ module ViewToolNonsenseTester
     end
   end
 end
+
